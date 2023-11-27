@@ -1,0 +1,38 @@
+body{
+    height: 100%;
+    background-image: url('image3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+a{
+    color: aquamarine;
+}
+.con2{
+    height: 100%;
+    width: 40%;
+    background-image: url('laptop.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+    color: azure;
+    padding: 60px;
+    margin: 50px 300px;
+}
+.name{
+    padding: 10px;
+
+}
+.email{
+    padding: 10px;
+    color: rgb(192, 230, 200);
+}
+.pw{
+    padding: 10px;
+    color: rgb(189, 179, 199);
+}
+.sub{
+    margin-left: 45px;
+    margin-top: 10px;
+}
+input[type=submit]{
+    padding: 5px 20px ;
+}
